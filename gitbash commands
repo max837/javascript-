@@ -1,0 +1,9 @@
+This file shows all javascript(Git Bash) commands.
+ls   // this command used for show list of files which is available in folder.
+touch filename.js    // used for create file 
+code .    // used for run vc code.
+$ git branch name     // used for create branch (branch name like main, ganesh, vivek).
+$ git branch     /// used for check branch e.g. * main , * ganesh ,* vivek
+$ git pull     // for download server data/code.
+$ git push   ///for load data in server.
+$ git status    // for check the status unchanged is called untracked file.
